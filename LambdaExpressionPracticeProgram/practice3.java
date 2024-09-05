@@ -7,5 +7,6 @@ public class practice3 {
         System.out.println("add to git");
         System.out.println("push from IDE");
         System.out.println("first update on new repo");
+        System.out.println("git installed successfully");
     }
 }
