@@ -1,4 +1,4 @@
-package Java8Features;
+package LambdaExpressionPracticeProgram;
 
 import java.util.Arrays;
 import java.util.List;

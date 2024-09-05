@@ -1,4 +1,4 @@
-package Java8Features;
+package LambdaExpressionPracticeProgram;
 
 public class practice3 {
     public static void main(String[] args) {
@@ -6,5 +6,6 @@ public class practice3 {
         System.out.println("Modifi the file");
         System.out.println("add to git");
         System.out.println("push from IDE");
+        System.out.println("first update on new repo");
     }
 }

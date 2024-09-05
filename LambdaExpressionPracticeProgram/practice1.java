@@ -1,4 +1,4 @@
-package Java8Features;
+package LambdaExpressionPracticeProgram;
 
 interface Addition{
 
